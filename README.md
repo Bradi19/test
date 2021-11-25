@@ -4,7 +4,7 @@
 ### Requirements:
 1. node.js 8 >= мы используем async/await
 1. mongo 3.4 >=
-1. соблюдение чистоты когда при помощи eslint с настройкой от Airbnb
+1. соблюдение чистоты когда при помощи eslint с настройкой от Airbnbd
 
 ## Getting Started:
 >$ git clone https://git.ossystem.ua/oss=projects/ossystem.com.ua/front
